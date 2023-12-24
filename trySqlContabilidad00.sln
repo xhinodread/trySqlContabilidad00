@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trySqlContabilidad00", "trySqlContabilidad00\trySqlContabilidad00.csproj", "{ABEE9932-8111-45D2-B304-E8BDF2700355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContabilidadCrud.Shared", "ContabilidadCrud.Shared\ContabilidadCrud.Shared.csproj", "{75C9C5D5-7AB3-4879-B4C3-48FF627422D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABEE9932-8111-45D2-B304-E8BDF2700355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEE9932-8111-45D2-B304-E8BDF2700355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEE9932-8111-45D2-B304-E8BDF2700355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEE9932-8111-45D2-B304-E8BDF2700355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C9C5D5-7AB3-4879-B4C3-48FF627422D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C9C5D5-7AB3-4879-B4C3-48FF627422D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C9C5D5-7AB3-4879-B4C3-48FF627422D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C9C5D5-7AB3-4879-B4C3-48FF627422D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD2E82A-F740-44F6-99A5-8D62D4C7B388}
+	EndGlobalSection
+EndGlobal
