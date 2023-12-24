@@ -14,7 +14,7 @@ namespace trySqlContabilidad00.Models
 		public virtual DbSet<DteCabecera> DteCabeceras { get; set; }
 
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
-			Console.WriteLine("opciones:... ");
+			Console.WriteLine("opciones:..... ");
 			Console.WriteLine(optionsBuilder.Options.ToString  );
 		}
 
